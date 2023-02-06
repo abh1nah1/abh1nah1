@@ -15,5 +15,5 @@ ADD MORE DETAILS LATER AS YOU BUILD YOUR CADER - New Projects, Concepts learned,
 
 - 👯 I’m looking to collaborate on ML and Data Visualization projects
 - 💬 Ask me about `Python`, `SQL`, `R` ...
-- 📫 How to reach me: [email](abhiram.raju@umassd.edu)
+- 📫 How to reach me: abhiram.raju@umassd.edu
 - 😄 Pronouns: He/Him/His
